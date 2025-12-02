@@ -97,13 +97,5 @@ npm run build
 npm run test
 ```
 
-###
-## 👥 Integrantes
-**Federico Gonzalez**  
-**Sofía Piombetti**  
-**Gastón Monsalvo**  
-**Juan Ignacio Vicente Prieto**  
-**Fiorella Bueno** 
-
 
 UTN - 2025
